@@ -22,7 +22,7 @@ const MainLayout = props => {
               display: "flex"
             }}
           >
-            Grocery App
+            Grocery app
           </div>
         </Header>
         <Content style={{ padding: "0 50px", marginTop: 64 }}>
