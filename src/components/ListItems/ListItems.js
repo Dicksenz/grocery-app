@@ -27,7 +27,7 @@ const ListItems = props => {
               />
               <Divider type="vertical" />
 
-              <Text delete={props.bought}>{value}</Text>
+              <Text>{value}</Text>
             </li>
           );
         })}
