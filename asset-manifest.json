@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/grocery-app/static/css/main.738adff4.chunk.css",
-    "main.js": "/grocery-app/static/js/main.19371a1a.chunk.js",
-    "main.js.map": "/grocery-app/static/js/main.19371a1a.chunk.js.map",
+    "main.js": "/grocery-app/static/js/main.084b73f7.chunk.js",
+    "main.js.map": "/grocery-app/static/js/main.084b73f7.chunk.js.map",
     "runtime~main.js": "/grocery-app/static/js/runtime~main.b23f09fe.js",
     "runtime~main.js.map": "/grocery-app/static/js/runtime~main.b23f09fe.js.map",
     "static/css/2.ff8bd605.chunk.css": "/grocery-app/static/css/2.ff8bd605.chunk.css",
     "static/js/2.02943203.chunk.js": "/grocery-app/static/js/2.02943203.chunk.js",
     "static/js/2.02943203.chunk.js.map": "/grocery-app/static/js/2.02943203.chunk.js.map",
     "index.html": "/grocery-app/index.html",
-    "precache-manifest.089d3164d06c6c1858d8ccaccc0a2859.js": "/grocery-app/precache-manifest.089d3164d06c6c1858d8ccaccc0a2859.js",
+    "precache-manifest.5a74bbb6f94fc1b989121f88e6a21818.js": "/grocery-app/precache-manifest.5a74bbb6f94fc1b989121f88e6a21818.js",
     "service-worker.js": "/grocery-app/service-worker.js",
     "static/css/2.ff8bd605.chunk.css.map": "/grocery-app/static/css/2.ff8bd605.chunk.css.map",
     "static/css/main.738adff4.chunk.css.map": "/grocery-app/static/css/main.738adff4.chunk.css.map"
