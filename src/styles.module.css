@@ -1,0 +1,19 @@
+.Content {
+  display: flex;
+  flex-direction: row;
+}
+.Bought {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 600px) {
+  .Content {
+    display: flex;
+    flex-direction: column;
+  }
+  .Bought {
+    display: flex;
+    flex-direction: column;
+  }
+}
